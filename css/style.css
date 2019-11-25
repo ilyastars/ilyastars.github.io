@@ -1,0 +1,61 @@
+/* body{
+} */
+/* .head{
+} */
+.headAtas{
+    background-color: red;
+    height: 35px;
+    width: 100%;
+
+}
+.headBawah{
+    background-color: white;
+    height: 65px;
+    width: 100%;
+
+}
+.card1-img-top{
+    height: 400px;
+}
+.card-img-top{
+    height: 250px;
+}
+.card-img{
+    height: 150px;
+    width: 100px;
+}
+.fab, .fas{
+    float: right;
+    color: aliceblue;
+    margin-left: 30px;
+}
+.fa-phone-square-alt{
+    float: right;
+    color: black;
+}
+
+/* .well{
+    padding: 0px 70px;
+} */
+/* .navbar{
+    padding: 0.5rem 5rem;
+} */
+a{
+    float: left;
+    margin-top: 6px;
+}
+h5{
+    float: left;
+    margin-top: 6px;
+}
+/* .fas{
+    float: right;
+} */
+i{
+    float: right;
+    color: black;
+    margin-top: 6px;
+}
+.card{
+    margin: 20px 22px;
+}
